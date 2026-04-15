@@ -8,7 +8,7 @@
   "server": {
     "ip": "CometoMyBlaBLaBlaWor.aternos.me",
     "port": 25227,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -69,8 +69,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
-    "place-night": true
+    "pick-up-day": false,
+    "place-night": false
   },
   "discord": {
     "enabled": false,
